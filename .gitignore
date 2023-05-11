@@ -1,0 +1,5 @@
+# programs
+*.DS_Store
+.idea
+.vscode
+.netrc
