@@ -1,5 +1,6 @@
 # programs
 *.DS_Store
 .idea
+.vagrant
 .vscode
 .netrc
